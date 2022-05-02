@@ -1,5 +1,5 @@
 # Entrega1-AYVD-DiploDatos
-Repositorio con el código para la primera entrega del TP de la materia Analisis y Visualización de Datos de la Diplomatura en Ciencia de Datos FAMAFyC
+Repositorio con el código para la entrega del TP de la materia Analisis y Visualización de Datos de la Diplomatura en Ciencia de Datos FAMAFyC
 
 
 Integrantes del Equipo:
